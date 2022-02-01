@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Eu  estou atualmente trabalhando no front-end
-- 🌱 Eu erstou atualmente aprendendo Javascript
+- 🔭 Eu estou atualmente trabalhando no front-end
+- 🌱 Eu estou atualmente aprendendo Javascript, HTML5, CSS3 e Node
 
 
 <div align="center">

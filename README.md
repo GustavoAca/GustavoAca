@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Eu estou atualmente trabalhando no front-end
-- 🌱 Eu estou atualmente aprendendo Javascript, HTML5, CSS3 e Node
+- 🔭 Eu estou atualmente trabalhando no fullStack java
+- 🌱 Eu estou atualmente aprendendo Typescript, React Spring e Java
 
 
 <div align="center">
@@ -20,6 +20,7 @@
   <img align="center" alt="Gu-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align= "center" alt="Gu-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Gu-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Gu-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   
   
 </div>

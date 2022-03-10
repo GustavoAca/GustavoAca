@@ -3,7 +3,7 @@
 
 
 - 🔭 Eu estou atualmente trabalhando no fullStack java
-- 🌱 Eu estou atualmente aprendendo Typescript, React Spring e Java
+- 🌱 Eu estou atualmente aprendendo Typescript, React, Spring e Java
 
 
 <div align="center">

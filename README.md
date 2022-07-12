@@ -3,7 +3,7 @@
 <p>- Estou estudando Angular e SpringBoot, com o foco em ser um desenvolvedor FullStack, estou cursando o bootcamp da Generation Brasil, pessoa desenvolvedora java junior FullStack</p>
 
  <img height="600em" src="https://i.imgur.com/ZkT5sJk.gif"/>
-<hr/>
+   <hr/>
 <div>
  
 
